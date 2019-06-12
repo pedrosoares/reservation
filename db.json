@@ -1,0 +1,21 @@
+{
+  "room":  [
+    { "id": 1, "name": "Suite 2 camas solteiro", "type": "Luxo"  },
+    { "id": 2, "name": "Suite 2 camas casal", "type": "Luxo"  },
+    { "id": 3, "name": "Suite 1 cama casal", "type": "Luxo"  },
+    { "id": 4, "name": "Suite 1 cama solteiro", "type": "Luxo"  },
+    { "id": 5, "name": "Suite 2 camas solteiro", "type": "Economica"  },
+    { "id": 6, "name": "Suite 2 camas casal", "type": "Economica"  },
+    { "id": 7, "name": "Suite 1 cama casal", "type": "Economica"  },
+    { "id": 8, "name": "Suite 1 cama solteiro", "type": "Economica"  }
+  ],
+  "reservation": [
+    { "id": 1, "clientId": 1, "roomId": 1, "day": "2019-06-01" },
+    { "id": 1, "clientId": 1, "roomId": 6, "day": "2019-06-21" },
+    { "id": 1, "clientId": 1, "roomId": 2, "day": "2019-08-01" },
+    { "id": 1, "clientId": 1, "roomId": 8, "day": "2019-10-03" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
